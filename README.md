@@ -1,2 +1,2 @@
-# CMSE381_final_project
+# CMSE381 Final Project
 Jack and Kate's final project
