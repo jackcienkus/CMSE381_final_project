@@ -1,5 +1,5 @@
 # CMSE381 Final Project
-Jack and Kate's final project
+Jack and Kathryn's final project
 
 - [Project Guidelines](https://msu-cmse-courses.github.io/CMSE381-S26/Project/ProjectDescription.html)
 
